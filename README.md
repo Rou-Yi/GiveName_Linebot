@@ -47,3 +47,6 @@
 - **Demo Video**  
 詳細操作置於影片中，歡迎收看 ଘ(੭*ˊᵕˋ)੭  
 [【AI Chatbot】Group 1 命名小精靈。夢咕嚕](https://www.youtube.com/watch?v=ukp0lKERbEU)
+
+- **演示圖**  
+![](https://github.com/Rou-Yi/GiveName_Linebot/blob/main/LINEBOT%E6%BC%94%E7%A4%BA%E5%9C%96%E7%89%87.jpg?raw=true)
